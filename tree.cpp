@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-  int cnt=0;
+int cnt=0;
 class FMT
 {
   public:
